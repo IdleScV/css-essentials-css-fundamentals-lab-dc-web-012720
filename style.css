@@ -11,4 +11,9 @@ img {
   align-items: center;
 }
 
+nav a {
+  padding: 10px;
+  background-color: grey;
+  
+}
 
