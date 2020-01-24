@@ -32,6 +32,8 @@ figcaption {
 }
 
 div {
-  
+  background-color: green;
+  align-content: center;
+  width: 25%;
 }
 
